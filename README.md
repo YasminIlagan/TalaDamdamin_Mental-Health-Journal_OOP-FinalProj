@@ -65,6 +65,7 @@ Future updates could include mood analytics, personalized tips, and a community 
 
 1. **Clone the Repository**  
    ```bash
+   https://github.com/YasminIlagan/TalaDamdamin_Mental-Health-Journal_OOP-FinalProj/tree/main
 
 2. **Set Up the Database**
 Execute MentalHealthJournal_Query.sql in MySQL Workbench.
